@@ -1,51 +1,60 @@
 import "./portfolio.css";
-import pro1 from "../../assetts/me.png";
-import pro from "../../assetts/project1a.PNG";
-import pro2 from "../../assetts/project2.png";
-import pro3 from "../../assetts/project3.png";
+import pro from "../../assetts/project2.png";
+import pro1 from "../../assetts/project1.PNG";
+import pro2 from "../../assetts/project7.PNG";
+import pro3 from "../../assetts/project4.png";
+import pro4 from "../../assetts/project5.png";
+import pro5 from "../../assetts/project6.png";
 
 
 const data = [
 {
   id:1,
-  image:pro,
-  title:'crytp currenecy dashboard and finanacial',
-  github:"https://github.com",
+  image:pro1,
+  title:'Static Beautiful portfolio design with animation.',
+  github:"https://github.com/zahidhussain123",
   demo:"https://styledcomponentsweb.herokuapp.com/"
 },
 {
   id:2,
-  image:pro2,
-  title:'crytp currenecy dashboard and finanacial',
-  github:"https://github.com",
+  image:pro,
+  title:'Beautiful Modern Figma Design website..Developed using React. ',
+  github:"https://github.com/zahidhussain123",
   demo:"https://dribble.com"
 },
 {
   id:3,
-  image:pro3,
-  title:'crytp currenecy dashboard and finanacial',
-  github:"https://github.com",
-  demo:"https://dribble.com"
+  image:pro2,
+  title:'Portfolio Website design with animation using Reactjs...',
+  github:"https://github.com/zahidhussain123",
+  demo:"https://reactsportfolio.herokuapp.com/"
 },
 {
   id:4,
-  image:pro1,
-  title:'crytp currenecy dashboard and finanacial',
-  github:"https://github.com",
+  image:pro3,
+  title:'Google keep Clone developed using reactjs along with hooks.',
+  github:"https://github.com/zahidhussain123",
   demo:"https://dribble.com"
 },
 {
   id:5,
-  image:pro1,
-  title:'crytp currenecy dashboard and finanacial',
-  github:"https://github.com",
+  image:pro4,
+  title:'Weather App by using fetching Api. ',
+  github:"https://github.com/zahidhussain123",
+  demo:"https://dribble.com"
+},
+{
+  id:6,
+  image:pro5,
+  title:'Cryptocurrency price tracker with live results.',
+  github:"https://github.com/zahidhussain123",
   demo:"https://dribble.com"
 },
 ]
 
 const Portfolio = () => {
   return (
-    <section>
+    <section id="portfolio">
       <h5>My Work</h5>
       <h2>Portfolio</h2>
 

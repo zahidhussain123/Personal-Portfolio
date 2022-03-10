@@ -1,5 +1,5 @@
 import "./about.css";
-import Me from "../../assetts/my.png";
+import Me from "../../assetts/me2.png";
 import { RiAwardFill } from "react-icons/ri";
 import { HiUsers } from "react-icons/hi";
 import { AiFillFolderAdd } from "react-icons/ai";

@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
       <a href="#" className="footer__logo">
-        ZRD
+        Z_RD
       </a>
 
       <ul className="permalinks">
@@ -56,7 +56,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; ZRD.All rights reserved</small>
+        <small>&copy; Z_RD.All rights reserved</small>
       </div>
     </footer>
   );

@@ -1,10 +1,10 @@
 import "./testimonials.css";
-import avat1 from "../../assetts/project3.png";
-import avat2 from "../../assetts/project3.png";
-import avat3 from "../../assetts/project3.png";
-import avat4 from "../../assetts/project3.png";
-import avat5 from "../../assetts/project3.png";
-import avat6 from "../../assetts/project3.png";
+import avat1 from "../../assetts/avatar1.jpg";
+import avat2 from "../../assetts/avatar2.jpg";
+import avat3 from "../../assetts/avatar3.jpg";
+import avat4 from "../../assetts/avatar4.jpg";
+import avat5 from "../../assetts/avatar5.jpg";
+import avat6 from "../../assetts/avatar6.jpg";
 
 import {  Pagination,  A11y } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -28,7 +28,7 @@ const data = [
   },
   {
     avatar: avat3,
-    name: "Hassan",
+    name: "lulia",
     review:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley",
 
@@ -58,7 +58,7 @@ const data = [
 
 const Testimonials = () => {
   return (
-    <section>
+    <section id="testimonials">
       <h5>Review from clients</h5>
       <h2>Testimonials</h2>
 
