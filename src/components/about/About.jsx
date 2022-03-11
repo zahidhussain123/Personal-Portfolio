@@ -34,12 +34,16 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting
-            industry. Lorem Ipsum has been the industry's standard dummy text
-            ever since the 1500s, when an unknown printer took a galley of type
-            and scrambled it to make a type specimen book.
+            My name is Zahid Hussain,a Software Engineer.I possess the deep
+            frontend skills and have worked with local and foreign clients on
+            different platforms.I can assure you of the best service you can get
+            ever. I have strong expertise in Web based Application, as well as
+            upgrading or fixing of your existing applications.You came to the
+            right place.Do not hesitate to contact me.
           </p>
-          <a href="#contact" className="btn btn-primary">Let's Talk</a>
+          <a href="#contact" className="btn btn-primary">
+            Let's Talk
+          </a>
         </div>
       </div>
     </section>

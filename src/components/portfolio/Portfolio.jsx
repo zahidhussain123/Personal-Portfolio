@@ -20,7 +20,7 @@ const data = [
   image:pro,
   title:'Beautiful Modern Figma Design website..Developed using React. ',
   github:"https://github.com/zahidhussain123",
-  demo:"https://dribble.com"
+  demo:"https://quirky-ardinghelli-a50fc2.netlify.app/#wgpt3"
 },
 {
   id:3,
@@ -34,21 +34,21 @@ const data = [
   image:pro3,
   title:'Google keep Clone developed using reactjs along with hooks.',
   github:"https://github.com/zahidhussain123",
-  demo:"https://dribble.com"
+  demo:"https://serene-leakey-24428d.netlify.app/"
 },
 {
   id:5,
   image:pro4,
   title:'Weather App by using fetching Api. ',
   github:"https://github.com/zahidhussain123",
-  demo:"https://dribble.com"
+  demo:"https://weather-api-projects.herokuapp.com/"
 },
 {
   id:6,
   image:pro5,
   title:'Cryptocurrency price tracker with live results.',
   github:"https://github.com/zahidhussain123",
-  demo:"https://dribble.com"
+  demo:"https://zahidhussain123.github.io/Cryptocurrency-price-tracker/"
 },
 ]
 
